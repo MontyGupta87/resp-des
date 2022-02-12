@@ -20,6 +20,7 @@
 @media only screen and ( min-width: 360px) and ( max-width: 479px) {
 .col{background:purple; width:80%;}
 }
+46172086
 
 </style>
 <script>
