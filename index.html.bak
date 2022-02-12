@@ -18,7 +18,7 @@
 .col{background:lightblue; width:80%;}
 }
 @media only screen and ( min-width: 360px) and ( max-width: 479px) {
-.col{background:blue; width:80%;}
+.col{background:purple; width:80%;}
 }
 
 </style>
