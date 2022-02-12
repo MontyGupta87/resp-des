@@ -23,11 +23,12 @@
 
 </style>
 <script>
-//alert(screen.width);
+alert(screen.width);
 </script>
 </head>
 <body>
 <div class="row">
+<div class="col">DIV 1</div>
 <div class="col">DIV 1</div>
 <div class="col">DIV 1</div>
 <div class="col">DIV 1</div>
